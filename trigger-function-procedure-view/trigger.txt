@@ -1,0 +1,7 @@
+--Trigger
+1. Berapa kali pegawai melakukan menjaga. Jadi setiap dia menjaga, counter berapa kali jaga nya ke update?.Isi Eventlog: Nama Pegawai- Jumlah menjaga
+2. Kapan pegawai baru mendaftarkan dirinya(memasukkan data). Isi EventLog : username, password, tgl membuat
+3. Berapa kali pemesan melakukan transaksi?. Setiap dia melakukan transaksi trus di update di eventLog. Isi EventLog: Nama Pemesan - jumlah transaksi
+4.Setiap melakukan update di tabel film di durasi , maka juga ke update ke waktu pemutaran dan waktu selesai di tabel memutar
+5. Karena adanya hari diskon ramadhan, maka lakukan update harga pertiket. Jika pemesan memesan lebih dari 5 maka mendapat diskon 20%
+6. Ada pegawai yang keluar dari sistem bioskop, maka hapus semua data di tabel menjaga yang id pegawainya keluar dari sistem bioskop
