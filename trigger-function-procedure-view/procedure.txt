@@ -1,0 +1,5 @@
+--Procedure
+-menampilkan hasil 'hasil pembayaran yang harus anda bayar adalah sekian' pada halaman pemesanan tiket
+-pegawai dapat menghitung jumlah pemesan yang telah membuat akun
+-menampilkan pegawai yang paling rajin manjaga sampai yang paling tidak rajin
+-menampilkan pemesan dengan jumlah total pembayaran terbanyak 

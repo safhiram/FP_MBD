@@ -1,0 +1,7 @@
+--Query
+- menampilkan tabel memutar yang berkorelasi dengan tabel studio dan film pada tanggal tertentu
+- menampilkan tabel memutar yang tanggalnya lebih dari sekarang (comming soon)
+- menampilkan tabel transaksi yang berkorelasi dengan pemesan
+- user melakukan login (harus menselect, mencocokan password)
+- menampilkan jumlah transaksi berdasarkan pemesan dan jumlah tiket yang dibeli
+- menampilkan film yang paling sering diputar

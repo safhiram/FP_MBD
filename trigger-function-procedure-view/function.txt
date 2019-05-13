@@ -1,0 +1,5 @@
+--Function
+-menghitung total pembayaran per user pada riwayat pemesan
+-menghitung total pembayaran pada user pemesanan
+-menghitung jumlah transaksi pada bulan tertentu
+- menghitung total pendapatan bioskop pada bulan tertentu
