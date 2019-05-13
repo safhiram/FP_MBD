@@ -103,8 +103,4 @@ INSERT INTO FILM VALUES ('102','The Hole In The Ground','Lee Cronin','Horror','S
 INSERT INTO FILM VALUES ('103','Arctic','Joe Pena','Adventure Drama','Mads Mikkelsen','Seorang pria (Mads Mikkelsen) terdampar di Antartika ketika pesawatnya jatuh. Ia membuat camp sementara dengan pesawatnya tetapi ia harus memutuskan untuk tetap berada di lokasinya sekarang yang relatif aman atau pergi melakukan perjalanan untuk mencari bantuan.',TO_DATE('27/03/2019','DD/MM/YYYY'),TO_DATE('23/04/2019','DD/MM/YYYY'),'98 menit');
 INSERT INTO FILM VALUES ('104','Dumbo','Tim Burton','Drama','Danny DeVito','Seorang pemilik sirkus bernama Max Medici (Danny DeVito) meminta tolong Holt Farrier (Colin Farrell) untuk mengurus seekor gajah yang baru lahir. Gajah tersebut bertelinga besar dan menjadi bahan tertawaan di sirkus yang sedang berjuang agar tidak bangkrut tersebut. Tetapi ketika anak-anak Holt menemukan bahwa gajah tersebut bisa terbang maka semuanya berusaha membuat agar gajah yang bernama Dumbo tersebut menjadi seorang bintang.',TO_DATE('27/03/2019','DD/MM/YYYY'),TO_DATE('01/05/2019','DD/MM/YYYY'),'115 menit');
 INSERT INTO FILM VALUES ('105','Suporter Masuk Pesantren','Quraisy Mathar','Drama','','',TO_DATE('','DD/MM/YYYY'),TO_DATE('','DD/MM/YYYY'),' menit');
-INSERT INTO FILM VALUES ('FILM000','','','','','',TO_DATE('','DD/MM/YYYY'),TO_DATE('','DD/MM/YYYY'),' menit');
-INSERT INTO FILM VALUES ('FILM000','','','','','',TO_DATE('','DD/MM/YYYY'),TO_DATE('','DD/MM/YYYY'),' menit');
-INSERT INTO FILM VALUES ('FILM000','','','','','',TO_DATE('','DD/MM/YYYY'),TO_DATE('','DD/MM/YYYY'),' menit');
-INSERT INTO FILM VALUES ('FILM000','','','','','',TO_DATE('','DD/MM/YYYY'),TO_DATE('','DD/MM/YYYY'),' menit');
 
